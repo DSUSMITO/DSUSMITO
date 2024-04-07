@@ -38,6 +38,3 @@ If you find my projects or resources helpful, consider supporting me:
 ## Thank You!
 
 Thank you for visiting my GitHub profile! I'm excited to embark on this learning journey, and I hope you'll join me along the way. Let's learn and grow together in the fascinating world of Python and machine learning! 🚀
-```
-
-Feel free to adjust the content according to your preferences and needs.
