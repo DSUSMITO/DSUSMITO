@@ -20,13 +20,6 @@ Welcome to My GitHub Profile!Hey there!
 - 📫 Feel free to reach out to me via email at susmitodatta2008@gmail.com
 - 💬 Let's chat about Python, machine learning, or anything tech-related!
 
-## Social Media
-
-Connect with me on social media:
-
-- Facebook: [Your Facebook Profile](https://www.facebook.com/yourprofile)
-- Instagram: [Your Instagram Profile](https://www.instagram.com/yourprofile)
-
 ## Let's Connect
 
 - 👨‍💻 Check out my latest projects and contributions.
